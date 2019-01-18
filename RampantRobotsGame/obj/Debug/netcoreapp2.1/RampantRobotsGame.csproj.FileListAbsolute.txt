@@ -1,0 +1,11 @@
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/bin/Debug/netcoreapp2.1/RampantRobotsGame.deps.json
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/bin/Debug/netcoreapp2.1/RampantRobotsGame.runtimeconfig.json
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/bin/Debug/netcoreapp2.1/RampantRobotsGame.runtimeconfig.dev.json
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/bin/Debug/netcoreapp2.1/RampantRobotsGame.dll
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/bin/Debug/netcoreapp2.1/RampantRobotsGame.pdb
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.csprojAssemblyReference.cache
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.csproj.CoreCompileInputs.cache
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.AssemblyInfoInputs.cache
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.AssemblyInfo.cs
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.dll
+/Users/jeroen/Projects/RampantRobotsGame/RampantRobotsGame/obj/Debug/netcoreapp2.1/RampantRobotsGame.pdb
