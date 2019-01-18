@@ -138,11 +138,13 @@ namespace RampantRobotsGame
 
         public void Run(int w, int h, int r, int t, bool m)
         {
+            // start with fresh console each new game
+            Console.Clear();
+            Console.WriteLine("Use 'WASD' to move the mechanic. Try to oil all the robots!!!");
             //Keep running untill user decides is enough
             do
             {
-                // start with fresh console each new game
-                Console.Clear();
+
                 //draw and update on how many turns
                 Draw();
                 Console.WriteLine(String.Format("You've got {0} turns left. {1} robot still need to be oiled.", Turns, BotList.Count));
